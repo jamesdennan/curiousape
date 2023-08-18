@@ -1,2 +1,2 @@
 # curiousape
-curiousape.io website 
+https://jamesdennan.github.io/curiousape/
